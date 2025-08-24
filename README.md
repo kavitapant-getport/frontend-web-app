@@ -54,3 +54,16 @@ npm test
 
 # Build for production
 npm run build
+```
+
+## Deployment
+- **CI/CD**: GitHub Actions with automated testing
+- **Hosting**: AWS CloudFront + S3
+- **Monitoring**: New Relic + DataDog
+- **Feature Flags**: LaunchDarkly integration
+
+## Team
+- **Owner**: Frontend Platform Team
+- **Design System**: Walmart Design System Team
+- **On-call**: Frontend Operations Team
+- **Slack**: #frontend-web-support
